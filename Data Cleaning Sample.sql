@@ -1,5 +1,5 @@
 -- Data Cleaning
--- objective: 
+-- objective: This file is used to have a general process to clean any data-set 
 
 Select * 
 FROM layoffs;
